@@ -104,7 +104,7 @@
                   </g>
                 </svg>
               </span>
-              <span class="app-brand-text demo menu-text fw-bolder ms-2">GIS</span>
+              <span class="app-brand-text demo menu-text fw-bolder ms-2">AstroC2</span>
             </a>
             <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
               <i class="bx bx-chevron-left bx-sm align-middle"></i>
@@ -119,10 +119,10 @@
                 <div data-i18n="Analytics">Asosiy</div>
               </a>
             </li>
-            <li class="menu-item active">
-              <a href="/dashboars/" class="menu-link">
+            <li class="menu-item">
+              <a href="/dashboard/messages" class="menu-link">
                 <i class="menu-icon tf-icons bx bx-home-circle"></i>
-                <div data-i18n="Analytics">Asosiy</div>
+                <div data-i18n="Analytics">Xabarlar</div>
               </a>
             </li>
           </ul>
